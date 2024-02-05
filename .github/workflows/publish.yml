@@ -4,6 +4,7 @@ on:
     types: [published]
 jobs:
   pypi:
+    environment: PYPI
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
