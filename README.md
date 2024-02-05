@@ -75,6 +75,11 @@ for chosen_option_index, chosen_option_text in response:
 ```
 <p align="center"><img width="800" src="md_files/example_2.gif" /></p>
 
+# TODO List
+- [ ] ChoicesViaTerminal: Create division to choice list.
+- [ ] ChoicesViaTerminal: Create scrolling for large list.
+- [ ] ChoicesViaTerminal: Predict O.S Windows and MacOS
+
 # LICENSE
 <p align=center>This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT">LICENSE</a> page for details.</p>
 <p align="center">
