@@ -58,7 +58,7 @@ print()
 print('Chosen option index: {}\n'
       'Chosen option text: {}'.format(chosen_option_index, chosen_option_text))
 ```
-<p align="center"><img width="800" src="README_FILES/example_1.gif" /></p>
+<p align="center"><img width="800" src="md_files/example_1.gif" /></p>
 
 #### Mode: Multiple choices [(Source Code)](./examples/multiple_choice_example_1.py)
 ```python
@@ -82,7 +82,7 @@ for chosen_option_index, chosen_option_text in response:
                                                                   chosen_option_text)
     )
 ```
-<p align="center"><img width="800" src="README_FILES/example_2.gif" /></p>
+<p align="center"><img width="800" src="md_files/example_2.gif" /></p>
 
 # LICENSE
 <p align=center>This project is licensed under the MIT License - see the <a href="https://opensource.org/licenses/MIT">LICENSE</a> page for details.</p>
