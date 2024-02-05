@@ -6,7 +6,6 @@
 - [Getting started](#getting-started)
     - [Instalation](#installationuninstallation)
         - [With public pip repository](#with-public-pip-repository)
-        - [Local installation](#local-installation)
     - [Uninstallation](#uninstallation)
     - [Usage](#usage)
         - [Dynamic choices](#dynamic-choices-via-terminal)
