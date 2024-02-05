@@ -19,16 +19,8 @@
 ## Installation
 
 ### With public pip repository
-> **Note:** Working on it 🔨
 ```shell
-pip install terminal-utils
-```
-
-### Local installation
-```shell
-git clone 'https://github.com/eliaquimrs/terminal-utils.git'
-cd terminal-utils/
-pip install .
+pip install ers-terminal-utils
 ```
 
 ## Uninstallation
