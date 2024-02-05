@@ -25,7 +25,7 @@ pip install ers-terminal-utils
 
 ## Uninstallation
 ```shell
-pip uninstall terminal-utils
+pip uninstall ers-terminal-utils
 ```
 
 ## Usage
